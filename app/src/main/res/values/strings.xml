@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Team #38</string>
+    <string-array name="theme_color">
+        <item>Default</item>
+        <item>Pink</item>
+        <item>Red</item>
+        <item>Orange</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Purple</item>
+    </string-array>
+</resources>
